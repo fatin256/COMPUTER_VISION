@@ -1,0 +1,14 @@
+streamlit
+pandas
+scikit-learn
+matplotlib
+seaborn
+numpy
+plotly
+nltk 
+PdfReader
+pyPDF2
+torchvision
+PIL
+torch
+torch.nn.functional
